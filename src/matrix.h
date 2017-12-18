@@ -27,7 +27,7 @@
 
 #include <iostream>
 
-namespace nn
+namespace math
 {
 	// Class for storing a matrix
 	template <typename T>
